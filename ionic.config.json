@@ -1,0 +1,7 @@
+{
+  "name": "phoneauth",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
